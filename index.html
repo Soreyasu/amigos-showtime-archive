@@ -17,74 +17,72 @@
 
   <main class="portal-container">
     <header class="portal-header">
+      <img src="./img/newlogoplectrumLight.png" alt="Amigos Showtime Logo" class="portal-logo">
       <span class="sub-badge">Select Archive</span>
       <h1>Amigos Showtime Game Archives</h1>
       <p class="portal-desc">Choose an amigos' profile to view completed collections and backlog logs.</p>
     </header>
-    <!-- The Square Stage with SVG Masks for Rounded Corners -->
-    <div class="square-stage">
 
-      <svg class="svg-definitions" width="0" height="0" aria-hidden="true">
-        <defs>
-          <!-- Top-left triangle: pulled back along diagonal -->
-          <clipPath id="clip-triangle-top" clipPathUnits="objectBoundingBox">
-            <path d="M 0.05,0 
-               L 0.88,0 
-               A 0.04,0.04 0 0 1 0.92,0.04 
-               L 0.04,0.92 
-               A 0.04,0.04 0 0 1 0,0.88 
-               L 0,0.05 
-               A 0.05,0.05 0 0 1 0.05,0 Z" />
-          </clipPath>
+    <!-- Zig-Zag Stage with Twitch Action Tiles -->
+    <div class="bars-stage">
 
-          <!-- Bottom-right triangle: pulled back along diagonal -->
-          <clipPath id="clip-triangle-bottom" clipPathUnits="objectBoundingBox">
-            <path d="M 0.95,1 
-               L 0.12,1 
-               A 0.04,0.04 0 0 1 0.08,0.96 
-               L 0.96,0.08 
-               A 0.04,0.04 0 0 1 1,0.12 
-               L 1,0.95 
-               A 0.05,0.05 0 0 1 0.95,1 Z" />
-          </clipPath>
-        </defs>
-      </svg>
+    <!-- Soreyasu Row -->
+      <div class="portal-row">
+        <a href="pages/soreyasu.html" class="portal-bar bar-zigzag-left theme-orange-olive">
+          <span class="sweep-glow"></span>
+          <div class="bar-inner">
+            <div class="bar-left">
+              <div class="avatar-tag">S</div>
+              <div class="bar-info">
+                <span class="profile-role">Archive 01</span>
+                <h2>Soreyasu</h2>
+                <p>Games completed & in progress</p>
+              </div>
+            </div>
+            <div class="enter-btn">
+              <span>Enter Archive</span>
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                <path d="M5 12h14M12 5l7 7-7 7" />
+              </svg>
+            </div>
+          </div>
+        </a>
 
-      <!-- Top-Left Triangle: Soreyasu (Orange / Olive) -->
-      <a href="pages/soreyasu.html" class="triangle-card triangle-top theme-orange-olive">
-        <div class="triangle-content top-content">
-          <div class="avatar-tag">S</div>
-          <div class="profile-info">
-            <span class="profile-role">Archive 01</span>
-            <h2>Soreyasu</h2>
-            <p>Games completed & in progress</p>
-          </div>
-          <div class="enter-btn">
-            <span>Enter Archive</span>
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
-              <path d="M5 12h14M12 5l7 7-7 7" />
-            </svg>
-          </div>
-        </div>
-      </a>
+        <a href="https://twitch.tv/soreyasu" target="_blank" rel="noopener noreferrer" class="twitch-btn twitch-top theme-orange-olive" title="Watch Soreyasu on Twitch">
+          <svg class="twitch-icon" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M11.571 4.714h1.715v5.143H11.57zm4.715 0H18v5.143h-1.714zM6 0L1.714 4.286v15.428h5.143V24l4.286-4.286h3.428L22.286 12V0zm14.571 11.143l-3.428 3.428h-3.429l-3 3v-3H6.857V1.714h13.714Z"/>
+          </svg>
+        </a>
+      </div>
 
-      <!-- Bottom-Right Triangle: Dret (Blue / Red) -->
-      <a href="pages/dret.html" class="triangle-card triangle-bottom theme-blue-red">
-        <div class="triangle-content bottom-content">
-          <div class="avatar-tag">D</div>
-          <div class="profile-info">
-            <span class="profile-role">Archive 02</span>
-            <h2>Dret</h2>
-            <p>Games completed & in progress</p>
+      <!-- Dret Row -->
+      <div class="portal-row">
+        <a href="https://twitch.tv/dretda" target="_blank" rel="noopener noreferrer" class="twitch-btn twitch-bottom theme-blue-red" title="Watch Dret on Twitch">
+          <svg class="twitch-icon" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M11.571 4.714h1.715v5.143H11.57zm4.715 0H18v5.143h-1.714zM6 0L1.714 4.286v15.428h5.143V24l4.286-4.286h3.428L22.286 12V0zm14.571 11.143l-3.428 3.428h-3.429l-3 3v-3H6.857V1.714h13.714Z"/>
+          </svg>
+        </a>
+        <a href="pages/dret.html" class="portal-bar bar-zigzag-right theme-blue-red">
+          <span class="sweep-glow"></span>
+          <div class="bar-inner">
+            <div class="bar-left">
+              <div class="avatar-tag">D</div>
+              <div class="bar-info">
+                <span class="profile-role">Archive 02</span>
+                <h2>Dret</h2>
+                <p>Games completed & in progress</p>
+              </div>
+            </div>
+            <div class="enter-btn">
+              <span>Enter Archive</span>
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                <path d="M5 12h14M12 5l7 7-7 7" />
+              </svg>
+            </div>
           </div>
-          <div class="enter-btn">
-            <span>Enter Archive</span>
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
-              <path d="M5 12h14M12 5l7 7-7 7" />
-            </svg>
-          </div>
-        </div>
-      </a>
+        </a> 
+      </div>
+      <div class="join"><span>Want to join Amigos Showtime? Contact either Soreyasu or Dret.</span></div>
     </div>
   </main>
 
