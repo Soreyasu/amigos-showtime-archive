@@ -82,6 +82,19 @@ body {
 .nav-home svg {
   color: var(--accent);
 }
+.nav-logo {
+  width: 32px;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  filter: drop-shadow(0 0 4px rgba(255, 255, 255, 0.4));
+  transition: transform 0.2s ease, filter 0.2s ease;
+}
+
+.nav-link:hover .nav-logo {
+  transform: scale(1.1);
+  filter: drop-shadow(0 0 8px rgba(56, 189, 248, 0.6));
+}
 
 .nav-switch {
   display: flex;
