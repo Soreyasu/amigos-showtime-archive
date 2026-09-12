@@ -12,7 +12,9 @@
   --xbox: #107c41;
   --playstation: #00439c;
   --nintendo: #e60012;
-  --pc: #38bdf8;
+  --pc: #FFD700;
+  --other: #FFE6EA;
+  --sega: #17569B;
 }
 
 * {
