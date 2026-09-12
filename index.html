@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>Game Archives | Portal</title>
@@ -9,6 +10,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="./css/portal.css">
 </head>
+
 <body>
 
   <div class="glow-bg"></div>
@@ -17,78 +19,76 @@
     <header class="portal-header">
       <span class="sub-badge">Select Archive</span>
       <h1>Amigos Showtime Game Archives</h1>
-      <p class="portal-desc">Choose a player profile to view completed collections and backlog logs.</p>
+      <p class="portal-desc">Choose an amigos' profile to view completed collections and backlog logs.</p>
     </header>
-<!-- The Square Stage with SVG Masks for Rounded Corners -->
-<div class="square-stage">
+    <!-- The Square Stage with SVG Masks for Rounded Corners -->
+    <div class="square-stage">
 
-  <svg class="svg-definitions" width="0" height="0" aria-hidden="true">
-  <defs>
-    <!-- Top-left triangle: pulled back along diagonal -->
-    <clipPath id="clip-triangle-top" clipPathUnits="objectBoundingBox">
-      <path d="M 0.05,0 
+      <svg class="svg-definitions" width="0" height="0" aria-hidden="true">
+        <defs>
+          <!-- Top-left triangle: pulled back along diagonal -->
+          <clipPath id="clip-triangle-top" clipPathUnits="objectBoundingBox">
+            <path d="M 0.05,0 
                L 0.88,0 
                A 0.04,0.04 0 0 1 0.92,0.04 
                L 0.04,0.92 
                A 0.04,0.04 0 0 1 0,0.88 
                L 0,0.05 
                A 0.05,0.05 0 0 1 0.05,0 Z" />
-    </clipPath>
+          </clipPath>
 
-    <!-- Bottom-right triangle: pulled back along diagonal -->
-    <clipPath id="clip-triangle-bottom" clipPathUnits="objectBoundingBox">
-      <path d="M 0.95,1 
+          <!-- Bottom-right triangle: pulled back along diagonal -->
+          <clipPath id="clip-triangle-bottom" clipPathUnits="objectBoundingBox">
+            <path d="M 0.95,1 
                L 0.12,1 
                A 0.04,0.04 0 0 1 0.08,0.96 
                L 0.96,0.08 
                A 0.04,0.04 0 0 1 1,0.12 
                L 1,0.95 
                A 0.05,0.05 0 0 1 0.95,1 Z" />
-    </clipPath>
-  </defs>
-</svg>
+          </clipPath>
+        </defs>
+      </svg>
 
-  <!-- Top-Left Triangle: Soreyasu (Orange / Olive) -->
-  <a href="./pages/soreyasu.html" class="triangle-card triangle-top theme-orange-olive">
-    <div class="triangle-content top-content">
-      <div class="avatar-tag">S</div>
-      <div class="profile-info">
-        <span class="profile-role">Archive 01</span>
-        <h2>Soreyasu</h2>
-        <p>Games completed & in progress</p>
-      </div>
-      <div class="enter-btn">
-        <span>Enter Archive</span>
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
-          <path d="M5 12h14M12 5l7 7-7 7"/>
-        </svg>
-      </div>
+      <!-- Top-Left Triangle: Soreyasu (Orange / Olive) -->
+      <a href="pages/soreyasu.html" class="triangle-card triangle-top theme-orange-olive">
+        <div class="triangle-content top-content">
+          <div class="avatar-tag">S</div>
+          <div class="profile-info">
+            <span class="profile-role">Archive 01</span>
+            <h2>Soreyasu</h2>
+            <p>Games completed & in progress</p>
+          </div>
+          <div class="enter-btn">
+            <span>Enter Archive</span>
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <path d="M5 12h14M12 5l7 7-7 7" />
+            </svg>
+          </div>
+        </div>
+      </a>
+
+      <!-- Bottom-Right Triangle: Dret (Blue / Red) -->
+      <a href="pages/dret.html" class="triangle-card triangle-bottom theme-blue-red">
+        <div class="triangle-content bottom-content">
+          <div class="avatar-tag">D</div>
+          <div class="profile-info">
+            <span class="profile-role">Archive 02</span>
+            <h2>Dret</h2>
+            <p>Games completed & in progress</p>
+          </div>
+          <div class="enter-btn">
+            <span>Enter Archive</span>
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <path d="M5 12h14M12 5l7 7-7 7" />
+            </svg>
+          </div>
+        </div>
+      </a>
     </div>
-  </a>
-
-  <!-- Bottom-Right Triangle: Dret (Blue / Red) -->
-  <a href="./pages/dret.html" class="triangle-card triangle-bottom theme-blue-red">
-    <div class="triangle-content bottom-content">
-      <div class="avatar-tag">D</div>
-      <div class="profile-info">
-        <span class="profile-role">Archive 02</span>
-        <h2>Dret</h2>
-        <p>Games completed & in progress</p>
-      </div>
-      <div class="enter-btn">
-        <span>Enter Archive</span>
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
-          <path d="M5 12h14M12 5l7 7-7 7"/>
-        </svg>
-      </div>
-    </div>
-  </a>
-
-</div>
-
-      
-    
   </main>
-<footer>©2026 Soreyasu. All rights reserved.</footer>
+
+  <footer>©2026 Soreyasu. All rights reserved.</footer>
 </body>
+
 </html>
