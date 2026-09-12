@@ -2,147 +2,147 @@
   {
     "id": 1,
     "title": "Actraiser Renaissance",
-    "platform": " "
+    "platform": "PC"
   },
   {
     "id": 2,
     "title": "Adventures in the Magic Kingdom",
-    "platform": " "
+    "platform": "NES"
   },
   {
     "id": 3,
     "title": "Adventures of Rad Gravity, The",
-    "platform": " "
+    "platform": "NES"
   },
   {
     "id": 4,
     "title": "Afterimage",
-    "platform": " "
+    "platform": "PC"
   },
   {
     "id": 5,
     "title": "Aladdin",
-    "platform": " "
+    "platform": "SMS"
   },
   {
     "id": 6,
     "title": "Alex Kidd in Miracle World",
-    "platform": " "
+    "platform": "SMS"
   },
   {
     "id": 7,
     "title": "Alien Soldier",
-    "platform": " "
+    "platform": "Mega Drive"
   },
   {
     "id": 8,
     "title": "Altered Beast",
-    "platform": " "
+    "platform": "Mega Drive"
   },
   {
     "id": 9,
     "title": "AM2R: Return of Samus",
-    "platform": " "
+    "platform": "PC"
   },
   {
     "id": 10,
     "title": "Analogue: A Hate Story",
-    "platform": " "
+    "platform": "PC"
   },
   {
     "id": 11,
     "title": "Anno: Mutationem",
-    "platform": " "
+    "platform": "PC"
   },
   {
     "id": 12,
     "title": "Another World: 20th Anniversary Edition",
-    "platform": " "
+    "platform": "PC"
   },
   {
     "id": 13,
     "title": "Ape Escape",
-    "platform": " "
+    "platform": "Playstation"
   },
   {
     "id": 14,
     "title": "Artifact Adventure",
-    "platform": " "
+    "platform": "PC"
   },
   {
     "id": 15,
     "title": "Artifact Adventure Gaiden DX",
-    "platform": " "
+    "platform": "PC"
   },
   {
     "id": 16,
     "title": "Astyanax",
-    "platform": " "
+    "platform": "NES"
   },
   {
     "id": 17,
     "title": "Atelier Ayesha: The Alchemist of Dusk",
-    "platform": " "
+    "platform": "Playstation"
   },
   {
     "id": 18,
     "title": "Atelier Escha & Logy: Alchemists of the Dusk Sky",
-    "platform": " "
+    "platform": "Playstation"
   },
   {
     "id": 19,
     "title": "Atelier Firis: The Alchemist and the Mysterious Journey DX",
-    "platform": " "
+    "platform": "PC"
   },
   {
     "id": 20,
     "title": "Atelier Iris 3: Grand Phantasm",
-    "platform": " "
+    "platform": "Playstation"
   },
   {
     "id": 21,
     "title": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings DX",
-    "platform": " "
+    "platform": "PC"
   },
   {
     "id": 22,
     "title": "Atelier Marie Remake: The Alchemist of Salburg",
-    "platform": " "
+    "platform": "PC"
   },
   {
     "id": 23,
     "title": "Atelier Meruru: The Apprentice of Arland",
-    "platform": " "
+    "platform": "Playstation"
   },
   {
     "id": 24,
     "title": "Atelier Rorona Plus: The Alchemist of Arland",
-    "platform": " "
+    "platform": "Playstation"
   },
   {
     "id": 25,
     "title": "Atelier Ryza: Ever Darkness & the Secret Hideout",
-    "platform": " "
+    "platform": "PC"
   },
   {
     "id": 26,
     "title": "Atelier Sophie: The Alchemist of the Mysterious Book DX",
-    "platform": " "
+    "platform": "PC"
   },
   {
     "id": 27,
     "title": "Atelier Totori: The Adventurer of Arland",
-    "platform": " "
+    "platform": "Playstation"
   },
   {
     "id": 28,
     "title": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land",
-    "platform": " "
+    "platform": "PC"
   },
   {
     "id": 29,
     "title": "Azure Striker Gunvolt",
-    "platform": " "
+    "platform": "PC"
   },
   {
     "id": 30,
@@ -1918,5 +1918,9 @@
     "id": 384,
     "title": "Zombie Incident",
     "platform": " "
-  }
+  },
+  {
+    "id": 385,
+    "title":"Alex Kidd in Shinobi World",
+    "platform": "SMS"
 ]
