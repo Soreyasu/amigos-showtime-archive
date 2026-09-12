@@ -1,0 +1,2306 @@
+[
+  {
+    "id": 1,
+    "title": "Actraiser Renaissance",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 2,
+    "title": "Adventures in the Magic Kingdom",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 3,
+    "title": "Adventures of Rad Gravity, The",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 4,
+    "title": "Afterimage",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 5,
+    "title": "Aladdin",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 6,
+    "title": "Alex Kidd in Miracle World",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 7,
+    "title": "Alien Soldier",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 8,
+    "title": "Altered Beast",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 9,
+    "title": "AM2R: Return of Samus",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 10,
+    "title": "Analogue: A Hate Story",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 11,
+    "title": "ANNO: Mutationem",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 12,
+    "title": "Arachnophobia",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 13,
+    "title": "Arc the Lad",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 14,
+    "title": "Asetto Corsa",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 15,
+    "title": "Astalon: Tears of the Earth",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 16,
+    "title": "Asterix & Obelix XXL: Romastered",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 17,
+    "title": "Asterix & Obelix XXL 2: Mission: Las Vegum",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 18,
+    "title": "Astral Ascent",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 19,
+    "title": "Atelier Firis: The Alchemist and the Mysterious Journey DX",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 20,
+    "title": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings DX",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 21,
+    "title": "Atelier Marie Remake: The Alchemist of Salburg",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 22,
+    "title": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 23,
+    "title": "Atelier Ryza 3: Alchemist of the End & the Secret Key",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 24,
+    "title": "Atelier Ryza: Ever Darkness & the Secret Hideout",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 25,
+    "title": "Atelier Sophie 2: The Alchemist of the Mysterious Dream",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 26,
+    "title": "Atelier Sophie: The Alchemist of the Mysterious Book DX",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 27,
+    "title": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 28,
+    "title": "Axiom Verge",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 29,
+    "title": "Bakugan Battle Brawlers",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 30,
+    "title": "Bakugan: Defenders of the Core",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 31,
+    "title": "Banishers: Ghosts of New Eden",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 32,
+    "title": "Batman: Arkham Asylum",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 33,
+    "title": "Batman: Arkham City",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 34,
+    "title": "Batman: Arkham Knight",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 35,
+    "title": "Batman: Arkham Origins",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 36,
+    "title": "Batman: Arkham Origins Blackgate - Deluxe Edition",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 37,
+    "title": "BattleBlock Theater",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 38,
+    "title": "Bayonetta",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 39,
+    "title": "Bayonetta 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 40,
+    "title": "Bayonetta Origins: Cereza and the Lost Demon",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 41,
+    "title": "Binary Domain",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 42,
+    "title": "BioShock",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 43,
+    "title": "Bleach: The Blade of Fate",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 44,
+    "title": "Bloodstained: Curse of the Moon",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 45,
+    "title": "Bloodstained: Curse of the Moon 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 46,
+    "title": "Bloodstained: Ritual of the Night",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 47,
+    "title": "Buddy and Lucky Solitaire",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 48,
+    "title": "Call of Duty 4: Modern Warfare",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 49,
+    "title": "Call of Duty: Black Ops",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 50,
+    "title": "Call of Duty: Black Ops II",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 51,
+    "title": "Call of Duty: Modern Warfare 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 52,
+    "title": "Call of Duty: Modern Warfare 3",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 53,
+    "title": "Call of Duty: World at War",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 54,
+    "title": "Castaway",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 55,
+    "title": "Castle in the Darkness",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 56,
+    "title": "Castle of Illusion Starring Mickey Mouse",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 57,
+    "title": "Castle of Illusion Starring Mickey Mouse (2013)",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 58,
+    "title": "Castlevania",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 59,
+    "title": "Castlevania - Bloodlines",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 60,
+    "title": "Castlevania Advance Collection",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 61,
+    "title": "Castlevania Dominus Collection",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 62,
+    "title": "Castlevania II: Belmont's Revenge",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 63,
+    "title": "Castlevania II: Simon's Quest",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 64,
+    "title": "Castlevania III: Dracula's Curse",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 65,
+    "title": "Castlevania: Aria of Sorrow",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 66,
+    "title": "Castlevania: Circle of the Moon",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 67,
+    "title": "Castlevania: Harmony of Dissonance",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 68,
+    "title": "Castlevania: Portrait of Ruin",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 69,
+    "title": "Castlevania: Rondo of Blood",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 70,
+    "title": "Castlevania: Symphony of the Night",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 71,
+    "title": "Castlevania: The Adventure",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 72,
+    "title": "Cat Quest",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 73,
+    "title": "Clock Tower",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 74,
+    "title": "Clock Tower: Rewind",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 75,
+    "title": "Contra",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 76,
+    "title": "Contra - Hard Corps",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 77,
+    "title": "Contra: Operation Galuga",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 78,
+    "title": "Crash Bandicoot",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 79,
+    "title": "Crash Bandicoot 2: Cortex Strikes Back",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 80,
+    "title": "Crash Bandicoot 3: Warped",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 81,
+    "title": "Crash Bandicoot: The Huge Adventure",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 82,
+    "title": "Dandara",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 83,
+    "title": "Dark Souls II: Scholar of the First Sin",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 84,
+    "title": "Dark Souls III",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 85,
+    "title": "Dark Souls: Remastered",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 86,
+    "title": "Darksiders Warmastered Edition",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 87,
+    "title": "Dead Cells",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 88,
+    "title": "Dead Island Definitive Edition",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 89,
+    "title": "Dead Island: Riptide Definitive Edition",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 90,
+    "title": "Dead Space",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 91,
+    "title": "Dead Space (2023)",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 92,
+    "title": "Dead Space 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 93,
+    "title": "Death's Door",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 94,
+    "title": "Digimon Digital Card Battle",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 95,
+    "title": "Digimon Story: Cyber Sleuth - Hacker's Memory",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 96,
+    "title": "Digimon Story Time Stranger",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 97,
+    "title": "Digimon World",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 98,
+    "title": "Digimon World 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 99,
+    "title": "Digimon World 2003",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 100,
+    "title": "Digimon World Re:Digitize",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 101,
+    "title": "Digimon World: Next Order",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 102,
+    "title": "Disgaea 2: Cursed Memories",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 103,
+    "title": "Disgaea 3: Absence of Justice",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 104,
+    "title": "Disgaea 4 Complete+",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 105,
+    "title": "Disgaea 4: A Promise Unforgotten",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 106,
+    "title": "Disgaea 5 Complete",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 107,
+    "title": "Disgaea 6 Complete",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 108,
+    "title": "Disgaea D2: A Brighter Darkness",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 109,
+    "title": "Donkey Kong",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 110,
+    "title": "Donkey Kong 3",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 111,
+    "title": "Donkey Kong '94",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 112,
+    "title": "Donkey Kong Country",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 113,
+    "title": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 114,
+    "title": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 115,
+    "title": "Donkey Kong Country Returns",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 116,
+    "title": "Donkey Kong Country: Tropical Freeze",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 117,
+    "title": "Donkey Kong Jr.",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 118,
+    "title": "Donkey Kong Jr. Math",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 119,
+    "title": "Dragon Ball Z: Budokai Tenkaichi 3",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 120,
+    "title": "Dragon Quest Builders 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 121,
+    "title": "DuckTales",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 122,
+    "title": "DuckTales 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 123,
+    "title": "DuckTales: Remastered",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 124,
+    "title": "Dungeon Munchies",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 125,
+    "title": "Dynablaster",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 126,
+    "title": "Dynamite Headdy",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 127,
+    "title": "Elden Ring",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 128,
+    "title": "Elite Beat Agents",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 129,
+    "title": "Ender Lilies: Quietus of the Knights",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 130,
+    "title": "Ender Magnolia: Bloom in the Mist",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 131,
+    "title": "F.E.A.R.",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 132,
+    "title": "F.E.A.R. 2: Project Origin",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 133,
+    "title": "F.E.A.R. 3",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 134,
+    "title": "FIFA International Soccer",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 135,
+    "title": "Final Fantasy",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 136,
+    "title": "Final Fantasy Tactics Advance",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 137,
+    "title": "Final Fantasy V",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 138,
+    "title": "Final Fantasy VI",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 139,
+    "title": "Final Fantasy VI Advance",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 140,
+    "title": "Final Fantasy VI Advance",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 141,
+    "title": "Final Fantasy VII",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 142,
+    "title": "Final Fantasy VII Remake Intergrade",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 143,
+    "title": "Final Fantasy VIII",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 144,
+    "title": "Final Fantasy X HD Remaster",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 145,
+    "title": "Final Fantasy X-2 HD Remaster",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 146,
+    "title": "Final Fantasy XII: The Zodiac Age",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 147,
+    "title": "Final Fantasy XIII",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 148,
+    "title": "Final Fantasy XIII-2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 149,
+    "title": "Final Fantasy XV",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 150,
+    "title": "Fire Emblem: Path of Radiance",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 151,
+    "title": "Fire Emblem: Radiant Dawn",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 152,
+    "title": "Fire Emblem: Shadow Dragon",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 153,
+    "title": "Fire Emblem: The Blazing Blade",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 154,
+    "title": "Fire Emblem: The Sacred Stones",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 155,
+    "title": "Flintstones, The - The Rescue of Dino & Hoppy",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 156,
+    "title": "Ghost Song",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 157,
+    "title": "Ghostrunner",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 158,
+    "title": "Gotham Knights",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 159,
+    "title": "Grand Theft Auto: San Andreas",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 160,
+    "title": "Grand Theft Auto: Vice City",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 161,
+    "title": "GRIME",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 162,
+    "title": "Guild Wars",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 163,
+    "title": "Guilty Gear Strive",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 164,
+    "title": "Gunvolt Chronicles: Luminous Avenger iX",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 165,
+    "title": "Gunvolt Chronicles: Luminous Avenger iX 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 166,
+    "title": "Halo 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 167,
+    "title": "Halo 3",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 168,
+    "title": "Halo 3: ODST",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 169,
+    "title": "Halo 4",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 170,
+    "title": "Halo: Combat Evolved",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 171,
+    "title": "Halo: Reach",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 172,
+    "title": "Hero and Daughter+",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 173,
+    "title": "Hexcells",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 174,
+    "title": "Hexcells Plus",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 175,
+    "title": "Hi-Fi RUSH",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 176,
+    "title": "Hollow Knight",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 177,
+    "title": "Hotline Miami",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 178,
+    "title": "Hotline Miami 2: Wrong Number",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 179,
+    "title": "Hyrule Warriors",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 180,
+    "title": "Ikaruga",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 181,
+    "title": "Infernax",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 182,
+    "title": "Islets",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 183,
+    "title": "Judgment",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 184,
+    "title": "Jump Super Stars",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 185,
+    "title": "Jump Ultimate Stars",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 186,
+    "title": "Jurassic Park",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 187,
+    "title": "Kandagawa Jet Girls",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 188,
+    "title": "Katana Zero",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 189,
+    "title": "Keio Flying Squadron",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 190,
+    "title": "Kingdom Hearts - Final Mix",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 191,
+    "title": "Kingdom Hearts 0.2 Birth by Sleep -A fragmentary passage-",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 192,
+    "title": "Kingdom Hearts Re:Chain of Memories",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 193,
+    "title": "Kingdom Hearts II - Final Mix",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 194,
+    "title": "Kingdom Hearts III + Re Mind",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 195,
+    "title": "Kingdom Hearts: Birth by Sleep - Final Mix",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 196,
+    "title": "Kingdom Hearts: Dream Drop Distance HD",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 197,
+    "title": "Kirby - Nightmare in Dream Land",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 198,
+    "title": "Kirby & The Amazing Mirror",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 199,
+    "title": "Kirby and the Forgotten Land",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 200,
+    "title": "Kirby's Adventure",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 201,
+    "title": "Kirby's Dream Land",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 202,
+    "title": "Kirby's Dream Land 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 203,
+    "title": "Kirby's Dream Land 3",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 204,
+    "title": "Kirby Super Star",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 205,
+    "title": "Knuckles' Chaotix",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 206,
+    "title": "La-Mulana",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 207,
+    "title": "La-Mulana 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 208,
+    "title": "Left 4 Dead",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 209,
+    "title": "Left 4 Dead 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 210,
+    "title": "Lies of P",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 211,
+    "title": "Light Crusader",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 212,
+    "title": "Lightning Returns: Final Fantasy XIII",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 213,
+    "title": "Live A Live",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 214,
+    "title": "Lone Survivor: The Director's Cut",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 215,
+    "title": "Lost Judgment",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 216,
+    "title": "M.C. Kids",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 217,
+    "title": "Magicmaker",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 218,
+    "title": "Makai Kingdom: Chronicles of the Sacred Tome",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 219,
+    "title": "Mega Man",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 220,
+    "title": "Mega Man 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 221,
+    "title": "Mega Man 3",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 222,
+    "title": "Mega Man 4",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 223,
+    "title": "Mega Man 5",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 224,
+    "title": "Mega Man 6",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 225,
+    "title": "Mega Man 7",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 226,
+    "title": "Mega Man 8",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 227,
+    "title": "Mega Man 9",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 228,
+    "title": "Mega Man 10",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 229,
+    "title": "Mega Man 11",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 230,
+    "title": "Mega Man X",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 231,
+    "title": "Mega Man X2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 232,
+    "title": "Mega Man X3",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 233,
+    "title": "Mega Man X4",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 234,
+    "title": "Mega Man X5",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 235,
+    "title": "Mega Man X6",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 236,
+    "title": "Mega Man X7",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 237,
+    "title": "Mega Man X8",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 238,
+    "title": "Mega Man Zero",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 239,
+    "title": "Mega Man Zero 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 240,
+    "title": "Mega Man Zero 3",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 241,
+    "title": "Mega Man Zero 4",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 242,
+    "title": "Mega Man ZX",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 243,
+    "title": "Mega Man ZX Advent",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 244,
+    "title": "Metal Gear",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 245,
+    "title": "Metal Gear 2: Solid Snake",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 246,
+    "title": "Metal Gear Rising: Revengeance",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 247,
+    "title": "Metal Gear Solid",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 248,
+    "title": "Metal Gear Solid 2: Sons of Liberty",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 249,
+    "title": "Metal Gear Solid 3: Snake Eater",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 250,
+    "title": "Metal Gear Solid 4: Guns of the Patriots",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 251,
+    "title": "Metal Gear Solid V: Ground Zeroes",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 252,
+    "title": "Metal Gear Solid V: The Phantom Pain",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 253,
+    "title": "Metal Gear Solid: Peace Walker",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 254,
+    "title": "Metal Gear Solid: The Twin Snakes",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 255,
+    "title": "Metal Gear Solid: VR Missions",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 256,
+    "title": "Metroid",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 257,
+    "title": "Metroid Dread",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 258,
+    "title": "Metroid Fusion",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 259,
+    "title": "Metroid Prime 2: Echoes",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 260,
+    "title": "Metroid Prime 3: Corruption",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 261,
+    "title": "Metroid Prime Remastered",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 262,
+    "title": "Metroid: Samus Returns",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 263,
+    "title": "Metroid: Zero Mission",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 264,
+    "title": "Mighty Gunvolt",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 265,
+    "title": "Mighty Gunvolt Burst",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 266,
+    "title": "Monster Boy and the Cursed Kingdom",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 267,
+    "title": "Monster Hunter: World",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 268,
+    "title": "Moonscars",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 269,
+    "title": "Mortal Kombat 1",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 270,
+    "title": "Mortal Kombat 11",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 271,
+    "title": "Mortal Kombat 9",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 272,
+    "title": "Mortal Kombat X",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 273,
+    "title": "Mother 3",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 274,
+    "title": "Muramasa: The Demon Blade",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 275,
+    "title": "Necesse",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 276,
+    "title": "NieR: Automata",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 277,
+    "title": "NieR Replicant ver.1.22474487139...",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 278,
+    "title": "Nine Sols",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 279,
+    "title": "Ninja Gaiden Black",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 280,
+    "title": "Ninja Gaiden Sigma",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 281,
+    "title": "Ninja Gaiden Sigma 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 282,
+    "title": "Nioh: Complete Edition",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 283,
+    "title": "Nioh 2: The Complete Edition",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 284,
+    "title": "Odin Sphere",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 285,
+    "title": "Ori and the Blind Forest: Definitive Edition",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 286,
+    "title": "Ori and the Will of the Wisps",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 287,
+    "title": "Outlast",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 288,
+    "title": "Outlast 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 289,
+    "title": "Pang! 3",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 290,
+    "title": "Persona 3 FES",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 291,
+    "title": "Persona 3 Reload",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 292,
+    "title": "Persona 4 Golden",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 293,
+    "title": "Persona 5 Royal",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 294,
+    "title": "Persona 5 Strikers",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 295,
+    "title": "Phantasy Star IV",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 296,
+    "title": "Phantom Brave",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 297,
+    "title": "Pokemon - Emerald Version",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 298,
+    "title": "Pokemon - LeafGreen Version",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 299,
+    "title": "Pokemon - Sapphire Version",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 300,
+    "title": "Pokémon Alpha Sapphire",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 301,
+    "title": "Pokémon Battle Revolution",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 302,
+    "title": "Pokémon Black Version",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 303,
+    "title": "Pokémon Black Version 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 304,
+    "title": "Pokémon Colosseum",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 305,
+    "title": "Pokémon Diamond Version",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 306,
+    "title": "Pokémon HeartGold Version",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 307,
+    "title": "Pokémon Moon",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 308,
+    "title": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 309,
+    "title": "Pokémon Platinum Version",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 310,
+    "title": "Pokémon Scarlet",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 311,
+    "title": "Pokémon Violet",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 312,
+    "title": "Pokémon White Version",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 313,
+    "title": "Pokémon XD: Gale of Darkness",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 314,
+    "title": "Pokémon Y",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 315,
+    "title": "Prehistoric Isle",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 316,
+    "title": "Prince of Persia: The Lost Crown",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 317,
+    "title": "Puyo Pop Fever",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 318,
+    "title": "Puyo Pop Fever",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 319,
+    "title": "Qué pasa Neng: El videojuego",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 320,
+    "title": "Rabi-Ribi",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 321,
+    "title": "Rad Racer",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 322,
+    "title": "Resident Evil (2002)",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 323,
+    "title": "Resident Evil 2 (2019)",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 324,
+    "title": "Resident Evil 3 (2020)",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 325,
+    "title": "Resident Evil 4 (2005)",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 326,
+    "title": "Resident Evil 4 (2023)",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 327,
+    "title": "Resident Evil 5",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 328,
+    "title": "Resident Evil 6",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 329,
+    "title": "Resident Evil 7: Biohazard",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 330,
+    "title": "Resident Evil Village",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 331,
+    "title": "Resident Evil: Revelations",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 332,
+    "title": "Resident Evil: Revelations 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 333,
+    "title": "Risk of Rain",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 334,
+    "title": "Risk of Rain 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 335,
+    "title": "Risk of Rain Returns",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 336,
+    "title": "Rogue Legacy",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 337,
+    "title": "Rogue Legacy 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 338,
+    "title": "Salt and Sanctuary",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 339,
+    "title": "Sekiro: Shadows Die Twice",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 340,
+    "title": "Senran Kagura: Peach Beach Splash",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 341,
+    "title": "Shadow the Hedgehog",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 342,
+    "title": "Shatterhand",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 343,
+    "title": "SHINOBI: Art of Vengeance",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 344,
+    "title": "Shovel Knight: Treasure Trove",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 345,
+    "title": "Sifu",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 346,
+    "title": "Silent Hill",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 347,
+    "title": "Silent Hill 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 348,
+    "title": "Silent Hill 3",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 349,
+    "title": "Silent Hill 4: The Room",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 350,
+    "title": "Solar Jetman - Hunt for the Golden Warpship",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 351,
+    "title": "Solomon's Key 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 352,
+    "title": "Sonic & Knuckles",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 353,
+    "title": "Sonic & Knuckles / Sonic the Hedgehog 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 354,
+    "title": "Sonic & Knuckles / Sonic the Hedgehog 3",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 355,
+    "title": "Sonic Adventure",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 356,
+    "title": "Sonic Adventure 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 357,
+    "title": "Sonic Frontiers",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 358,
+    "title": "Sonic Generations",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 359,
+    "title": "Sonic Heroes",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 360,
+    "title": "Sonic Mania",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 361,
+    "title": "Sonic Origins",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 362,
+    "title": "Sonic Superstars",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 363,
+    "title": "Sonic The Hedgehog",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 364,
+    "title": "Sonic The Hedgehog 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 365,
+    "title": "Sonic The Hedgehog 3",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 366,
+    "title": "Sonic Unleashed",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 367,
+    "title": "Star Wars Jedi: Fallen Order",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 368,
+    "title": "Star Wars Jedi: Survivor",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 369,
+    "title": "Stella Glow",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 370,
+    "title": "Stranglehold",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 371,
+    "title": "Street Fighter 6",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 372,
+    "title": "Super Castlevania IV",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 373,
+    "title": "Super Mario Advance 2 - Super Mario World",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 374,
+    "title": "Super Mario Advance 4 - Super Mario Bros. 3",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 375,
+    "title": "Super Mario All-Stars / Super Mario World",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 376,
+    "title": "Super Mario Bros.",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 377,
+    "title": "Super Mario Bros. 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 378,
+    "title": "Super Mario Bros. 3",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 379,
+    "title": "Super Mario Bros. Wonder",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 380,
+    "title": "Super Mario Galaxy",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 381,
+    "title": "Super Mario Galaxy 2",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 382,
+    "title": "Super Mario Odyssey",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 383,
+    "title": "Super Mario World",
+    "platform": "PC",
+    "year": null
+  },
+  {
+    "id": 384,
+    "title": "Super Princess Peach",
+    "platform": "PC",
+    "year": null
+  }
+]

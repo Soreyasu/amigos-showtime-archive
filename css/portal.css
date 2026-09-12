@@ -1,0 +1,304 @@
+:root {
+  --bg: #070a11;
+  --surface: rgba(18, 24, 38, 0.7);
+  --border: rgba(255, 255, 255, 0.1);
+  --text: #f1f5f9;
+  --text-muted: #94a3b8;
+  --accent-cyan: #38bdf8;
+  --accent-purple: #a855f7;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg);
+  background-image: radial-gradient(rgba(255, 255, 255, 0.06) 1px, transparent 1px);
+  background-size: 28px 28px;
+  color: var(--text);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 1.5rem;
+  position: relative;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Ambient Backlight */
+.glow-bg {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 750px;
+  height: 600px;
+  background: radial-gradient(circle, rgba(249, 115, 22, 0.12) 0%, rgba(37, 99, 235, 0.1) 40%, transparent 70%);
+  filter: blur(70px);
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Hidden SVG Defs */
+.svg-definitions {
+  position: absolute;
+  width: 0;
+  height: 0;
+  pointer-events: none;
+}
+
+.portal-container {
+  max-width: 580px;
+  width: 100%;
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2.5rem;
+}
+
+.portal-header {
+  text-align: center;
+}
+
+.sub-badge {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent-cyan);
+}
+
+.portal-header h1 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: #fff;
+  margin: 0.3rem 0 0.5rem;
+}
+
+.portal-desc {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  max-width: 440px;
+  line-height: 1.4;
+}
+
+/* ============================
+   The Square Stage
+   ============================ */
+.square-stage {
+  width: 100%;
+  max-width: 500px;
+  aspect-ratio: 1 / 1;
+  position: relative;
+  filter: drop-shadow(0 25px 35px rgba(0, 0, 0, 0.7));
+}
+
+/* Base Triangle Cards */
+.triangle-card {
+  position: absolute;
+  inset: 0;
+  text-decoration: none;
+  color: inherit;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), 
+              filter 0.25s ease;
+  overflow: hidden;
+}
+
+/* Rounded Triangle Masks */
+.triangle-top {
+  clip-path: url(#clip-triangle-top);
+  -webkit-clip-path: url(#clip-triangle-top);
+  transform: translate(-8px, -8px);
+  z-index: 2;
+}
+
+.triangle-bottom {
+  clip-path: url(#clip-triangle-bottom);
+  -webkit-clip-path: url(#clip-triangle-bottom);
+  transform: translate(8px, 8px);
+  z-index: 1;
+}
+/* Hover state: pushes further outward smoothly */
+.triangle-top:hover {
+  transform: translate(-14px, -14px);
+  z-index: 4;
+}
+
+.triangle-bottom:hover {
+  transform: translate(14px, 14px);
+  z-index: 4;
+}
+
+/* ============================
+   Gradients & Colors
+   ============================ */
+
+/* Soreyasu: Orange into Olive */
+.theme-orange-olive {
+  background: linear-gradient(135deg, rgba(249, 115, 22, 0.45) 0%, rgba(132, 204, 22, 0.25) 60%, rgba(16, 24, 16, 0.9) 100%);
+  border: 1px solid rgba(249, 115, 22, 0.3);
+}
+
+.theme-orange-olive:hover {
+  background: linear-gradient(135deg, rgba(249, 115, 22, 0.65) 0%, rgba(132, 204, 22, 0.4) 60%, rgba(20, 30, 20, 0.95) 100%);
+  filter: drop-shadow(0 0 20px rgba(249, 115, 22, 0.25));
+}
+
+.theme-orange-olive .avatar-tag {
+  background: rgba(249, 115, 22, 0.2);
+  border: 1px solid rgba(249, 115, 22, 0.5);
+  color: #fb923c;
+}
+
+.theme-orange-olive .profile-role {
+  color: #a3e635;
+}
+
+.theme-orange-olive:hover .enter-btn {
+  color: #fb923c;
+}
+
+/* Dret: Blue into Red */
+.theme-blue-red {
+  background: linear-gradient(315deg, rgba(225, 29, 72, 0.45) 0%, rgba(37, 99, 235, 0.25) 60%, rgba(12, 18, 32, 0.9) 100%);
+  border: 1px solid rgba(37, 99, 235, 0.3);
+}
+
+.theme-blue-red:hover {
+  background: linear-gradient(315deg, rgba(225, 29, 72, 0.65) 0%, rgba(37, 99, 235, 0.4) 60%, rgba(15, 24, 44, 0.95) 100%);
+  filter: drop-shadow(0 0 20px rgba(37, 99, 235, 0.25));
+}
+
+.theme-blue-red .avatar-tag {
+  background: rgba(37, 99, 235, 0.2);
+  border: 1px solid rgba(37, 99, 235, 0.5);
+  color: #60a5fa;
+}
+
+.theme-blue-red .profile-role {
+  color: #f43f5e;
+}
+
+.theme-blue-red:hover .enter-btn {
+  color: #60a5fa;
+}
+
+
+
+/* Content Placement */
+.triangle-content {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  width: 65%;
+}
+
+.top-content {
+  top: 2rem;
+  left: 2rem;
+  text-align: left;
+}
+
+.bottom-content {
+  bottom: 2rem;
+  right: 2rem;
+  text-align: right;
+  align-items: flex-end;
+}
+
+.avatar-tag {
+  width: 40px;
+  height: 40px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+.profile-role {
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.profile-info h2 {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: #fff;
+  margin: 0.15rem 0 0.25rem;
+}
+
+.profile-info p {
+  font-size: 0.775rem;
+  color: var(--text-muted);
+  line-height: 1.35;
+}
+
+.enter-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  margin-top: 0.25rem;
+  transition: all 0.2s ease;
+}
+
+.enter-btn svg {
+  transition: transform 0.2s ease;
+}
+
+.triangle-card:hover .enter-btn svg {
+  transform: translateX(4px);
+}
+
+/* Mobile Fallback */
+@media (max-width: 520px) {
+  .square-stage {
+    aspect-ratio: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    filter: none;
+  }
+
+  .triangle-card {
+    position: relative;
+    clip-path: none !important;
+    -webkit-clip-path: none !important;
+    inset: auto;
+    border-radius: 14px;
+    padding: 1.5rem;
+  }
+
+  .triangle-content {
+    position: relative;
+    width: 100%;
+    top: auto;
+    left: auto;
+    right: auto;
+    bottom: auto;
+    text-align: left;
+    align-items: flex-start;
+  }
+
+  .triangle-top:hover, 
+  .triangle-bottom:hover {
+    transform: translateY(-3px);
+  }
+}

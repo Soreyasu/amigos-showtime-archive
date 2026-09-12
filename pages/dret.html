@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>DRET - Completed Games</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+  <div class="glow-bg"></div>
+
+  <div class="app-container">
+    <header>
+      <div class="header-main">
+        <div>
+          <span class="sub-badge">Archive</span>
+          <h1>Dret - Completed Games</h1>
+        </div>
+        <div class="counter-badge">
+          <span id="count">0</span> titles
+        </div>
+      </div>
+
+      <div class="filter-bar">
+        <nav class="platform-pills" id="platform-tabs">
+          <button class="pill active" data-platform="ALL">All</button>
+        </nav>
+
+        <div class="controls">
+          <div class="search-wrap">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+            <input type="text" id="search" placeholder="Search archive...">
+          </div>
+          <!--<select id="year-filter">
+            <option value="ALL">All Years</option>
+          </select> -->
+        </div>
+      </div>
+    </header>
+
+    <main class="grid" id="game-grid"></main>
+  </div>
+  <footer>©2026 Soreyasu. All rights reserved.</footer>
+  <script src="/scripts/script.js"></script>
+</body>
+</html>
