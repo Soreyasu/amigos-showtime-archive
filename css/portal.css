@@ -124,6 +124,41 @@ body {
   text-align: center;
 }
 
+/* Shared Channel Header Button */
+.channel-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  padding: 0.45rem 1.1rem;
+  border-radius: 9999px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 0.8rem;
+  font-weight: 500;
+  backdrop-filter: blur(8px);
+  transition: all 0.25s ease;
+}
+
+.channel-link svg {
+  color: #ff0000;
+  transition: transform 0.2s ease;
+}
+
+.channel-link:hover {
+  color: #fff;
+  border-color: rgba(255, 0, 0, 0.4);
+  background: rgba(255, 0, 0, 0.08);
+  box-shadow: 0 0 16px rgba(255, 0, 0, 0.2);
+  transform: translateY(-2px);
+}
+
+.channel-link:hover svg {
+  transform: scale(1.1);
+}
+
 /* =========================================================
    Zig-Zag Stage & Row Layout
    ========================================================= */
