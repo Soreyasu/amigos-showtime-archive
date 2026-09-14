@@ -1873,7 +1873,7 @@
   },
   {
     "id": 313,
-    "title": "YuGiOh Millenium Duels",
+    "title": "Yu-Gi-Oh! Millennium Duels",
     "platform": "XBOX",
     "year": null
   },
@@ -1886,6 +1886,12 @@
   {
     "id": 315,
     "title": "Zone of the enders: The 2nd Runner",
+    "platform": "PLAYSTATION",
+    "year": null
+  },
+  { 
+    "id": 316,
+    "title": "Yu-Gi-Oh! Tag Force 6",
     "platform": "PLAYSTATION",
     "year": null
   }
