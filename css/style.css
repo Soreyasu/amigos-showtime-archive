@@ -430,4 +430,7 @@ h1 {
   .section-grid {
     grid-template-columns: 1fr;
   }
+  .card{
+    overflow:hidden;
+  }
 }
